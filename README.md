@@ -10,7 +10,8 @@
 **[https://goutamsharma369.github.io/Task5-Github_Pages/](https://goutamsharma369.github.io/Task5-Github_Pages/)**
 
 ### Final Deployed Site:
-![A screenshot of the live, deployed website.](Screenshot 2025-10-28 163950.png)
+![A screenshot of the live, deployed website.](![Uploading Screenshot 2025-10-28 163950.png…]()
+)
 
 ---
 
