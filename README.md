@@ -7,11 +7,10 @@
 
 ## 🚀 Live Website Link
 
-**[https://goutamsharma369.github.io/Task5-Github_Pages/](https://goutamsharma369.github.io/Task5-Github_Pages/)**
+**[https://goutamsharma369.github.io/Task6-Github_Pages/](https://goutamsharma369.github.io/Task6-Github_Pages/)**
 
 ### Final Deployed Site:
-![A screenshot of the live, deployed website.]
-![Uploading Screenshot 2025-10-28 163950.png…]()
+![WhatsApp Image 2025-10-28 at 16 55 40_94e9f2a5](https://github.com/user-attachments/assets/64e54317-c932-4bb3-952a-5ac7a456c4aa)
 
 ---
 
